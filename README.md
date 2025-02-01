@@ -6,10 +6,6 @@ Exception Handling :
 namespace Task04_search
 {
 
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
-
     class Program
     {
         static void Main()
@@ -42,10 +38,6 @@ namespace Task04_search
 
 namespace Task04_search
 {
-
-    using System;
-    using System.Collections;
-    using System.Collections.Generic;
 
     class Program
     {
